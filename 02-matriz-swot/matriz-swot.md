@@ -1,4 +1,4 @@
-# 📊 Matriz SWOT - Projeto CyberVault
+# 📊 Matriz SWOT - Projeto Backup Automatizado
 
 A análise da Matriz SWOT permite avaliar o posicionamento estratégico do Projeto CyberVault, mapeando o ambiente interno (Forças e Fraquezas) e o ambiente externo (Oportunidades e Ameaças) no cenário de implantação de segurança para PMEs.
 
